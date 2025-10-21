@@ -23,7 +23,7 @@
 [<img align="left" alt="adrianorly00 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/adrian_orly/
-[linkedin]: https://www.linkedin.com/in/adrian-orlowski-a85720200
+[linkedin]: https://www.linkedin.com/in/adrian-orlowski-a85720200 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
