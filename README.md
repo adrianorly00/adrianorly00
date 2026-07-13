@@ -5,8 +5,8 @@
 - <b>Auditd Come funziona, Come installare, Come si usa</b>
  - [AuditD](https://github.com/adrianorly00/AuditD)
 
-- <b>Malware Analysis Usando tool diversi</b>
-  - [Malware Analysis](https://google.com)
+- <b>Log Analysis</b>
+  - [Log Analysis](https://google.com)
 
 - <b>Scripting bash</b>
   - [Scripting in bash to automate tasks](https://github.com/adrianorly00)
