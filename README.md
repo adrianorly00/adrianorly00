@@ -1,11 +1,11 @@
-<h1>Hi, I'm Adrian! <br/><a href="https://github.com/adrianorly00">Cybersec Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Junior Cybersecurity</a></h1>
+<h1>Hi, Ciao, sono Adrian! <br/><a href="https://github.com/adrianorly00">Cybersec Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Junior Cybersecurity</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Auditd Come funziona, Come installare, Come si usa</b>
  - [AuditD](https://github.com/adrianorly00/AuditD)
 
-- <b>Malware Analysis Using Different Tools</b>
+- <b>Malware Analysis Usando tool diversi</b>
   - [Malware Analysis](https://google.com)
 
 - <b>Scripting bash</b>
