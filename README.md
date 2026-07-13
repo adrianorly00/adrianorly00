@@ -1,4 +1,4 @@
-<h1>Hi, Ciao, sono Adrian! <br/><a href="https://github.com/adrianorly00">Cybersec Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Junior Cybersecurity</a></h1>
+<h1>Ciao, sono Adrian! <br/><a href="https://github.com/adrianorly00">Cybersec Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Junior Cybersecurity</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
