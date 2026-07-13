@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+- <b>Auditd Come funziona, Come installare, Come si usa.</b>
+ - [AuditD](ccc)
+
 - <b>Malware Analysis Using Different Tools</b>
   - [Malware Analysis](https://google.com)
 - <b>Installing and using IDS</b>
