@@ -7,16 +7,7 @@
 
 - <b>Malware Analysis Using Different Tools</b>
   - [Malware Analysis](https://google.com)
-- <b>Installing and using IDS</b>
-  - [Setting SNORT to block pings (ICMP-ECHO)](https://github.com/adrianorly00)</b></i>
-  - [Setting SNORT to block potential malware downloads](https://github.com/adrianorly00)</b></i>
-  - [Setting Suricata](https://github.com/adrianorly00)</b></i>
-- <b> Utilizing Splunk to monitor and analyze</b>
-  - [Using Splunk to analyze logs](https://github.com/adrianorly00)</b></i>
-- <b>How to Wireshark</b>
-  - [??](https://github.com/adrianorly00)
-  - [Tracking connection](https://github.com/adrianorly00)
-  - [Packet filtering](https://github.com/adrianorly00)
+
 - <b>Scripting bash</b>
   - [Scripting in bash to automate tasks](https://github.com/adrianorly00)
 
