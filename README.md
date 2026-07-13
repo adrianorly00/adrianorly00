@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Auditd Come funziona, Come installare, Come si usa.</b>
+- <b>Auditd Come funziona, Come installare, Come si usa</b>
  - [AuditD](ccc)
 
 - <b>Malware Analysis Using Different Tools</b>
